@@ -3,7 +3,7 @@ public class ForLoop {
     
 	public static void main(String[] args) {
 		String[] movies = new String[6];
-
+// lets check
 		Scanner scanner= new Scanner(System.in);
 				for (int i = 0; i < 6 ; i++) {
 					 movies[i]= scanner.nextLine();
